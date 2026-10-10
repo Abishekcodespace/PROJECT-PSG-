@@ -1,0 +1,6 @@
+{
+  "name": "Ad-to-Landing-Page Message Match Auditor",
+  "description": "AI-powered Ad-to-Landing-Page Message Match Auditor that extracts landing page content, deterministically verifies evidence quotes, identifies claim mismatches, and scores message alignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
